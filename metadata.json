@@ -1,0 +1,36 @@
+{
+  "slug": "ai-agent-developers-workflow-skill",
+  "title": "AI Agent Developers Workflow Skill",
+  "summary": "帮助用户围绕“latest AI agent workflow pain points for developers”构建可复用 AI skill 工作流，并基于最新资料给出步骤、边界和验证清单。",
+  "tags": [
+    "codex-skill",
+    "ai-workflow",
+    "ai-agents",
+    "ai",
+    "agent",
+    "developers"
+  ],
+  "sources": [
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "credibility": 0.7
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "credibility": 0.7
+    },
+    {
+      "title": "leeex1/Quillan-Ronin",
+      "url": "https://github.com/leeex1/Quillan-Ronin",
+      "credibility": 0.7
+    },
+    {
+      "title": "Hello-QM/catgo-LRG",
+      "url": "https://github.com/Hello-QM/catgo-LRG",
+      "credibility": 0.7
+    }
+  ],
+  "score": 91.0
+}
