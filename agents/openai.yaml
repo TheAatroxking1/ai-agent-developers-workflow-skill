@@ -1,0 +1,4 @@
+interface:
+  display_name: "可打印 3D 建模"
+  short_description: "从参考图完成两阶段原型审核与可打印 CAD 文件交付"
+  default_prompt: "使用 $building-printable-3d-models 从我的参考图开始两阶段可打印 3D 建模流程。"
